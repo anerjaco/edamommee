@@ -1,0 +1,2 @@
+# edamommee  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/anerjaco/edamommee.gitgit push -u origin master
+# edamommee  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/anerjaco/edamommee.gitgit push -u origin master
